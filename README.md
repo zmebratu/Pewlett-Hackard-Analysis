@@ -8,6 +8,8 @@ This analysis was done to determine the eligible employees who can participate i
 * There are only 2 managers retiring.
 * Senior staffs make up many employees who can participate in the mentorship program.
 * Most of the staff retiring and eligible to participate in the mentorship program are engineers.
+
+
 ![plot](Resources/Retiring_titles.png) 
 
 ## Summary

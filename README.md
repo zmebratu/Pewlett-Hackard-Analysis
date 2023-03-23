@@ -19,7 +19,9 @@ To obtain the required data, the analysis focused on identifying the number of e
 ![plot](Resources/Retiring_titles.png) 
 
 ## Summary
-After conducting the analysis, there are about fifty thousand roles that will need to be replaced within the upcoming years. However, there is not enough retirement-ready employees to mentor the upcoming generation of employees. The company will have to adjust to accommodate for the discrepancy.
+The analysis has revealed that approximately 50,000 positions at the company will need to be filled in the near future. However, there are not enough retirement-ready employees available to mentor the next generation of workers, creating a discrepancy that the company must address.
+
+To prevent a shortage of mentors, I would propose adding two new tables to the existing database.
 
 
 Software:
